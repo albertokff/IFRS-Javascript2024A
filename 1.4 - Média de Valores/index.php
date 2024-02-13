@@ -1,0 +1,1 @@
+// não fiz nada nesse módulo porque era o cálculo de média de valores, simples
